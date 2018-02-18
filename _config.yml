@@ -1,1 +1,11 @@
+# basic options
+title: The Fashion House
+author: Courtuier
+email: your-email@domain.com
+description: The place for High Fashion
+twitter_username: jekyllrb
+
+
+# Build settings
+markdown: kramdown
 theme: jekyll-theme-cayman

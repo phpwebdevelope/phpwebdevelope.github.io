@@ -10,7 +10,9 @@ markdown: kramdown
 theme: jekyll-theme-cayman
 
 # File: _config.yml
+layout: pages
 webrick:
   headers:
     My-Header: My-Value
     My-Other-Header: My-Other-Value
+    

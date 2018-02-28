@@ -7,7 +7,7 @@ twitter_username: jekyllrb
 
 # Build settings
 markdown: kramdown
-theme: Instagram portfolio theme 
+theme: jekyll-theme-Instagram-portfolio
 
 # File: _config.yml
 layout: pages

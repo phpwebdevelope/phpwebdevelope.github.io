@@ -1,4 +1,4 @@
-lang: en-UK
+1ang: en-UK
 url: https://phpwebdevelope.github.io
 #baseurl: /
 baseurl: 
@@ -53,4 +53,4 @@ address:
 # Build settings
 markdown: kramdown
 permalink: pretty
-theme: jekyll-theme-basically-basic
+theme: 

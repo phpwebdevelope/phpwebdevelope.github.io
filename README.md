@@ -3,33 +3,36 @@
 ![Image](https://scontent.fkin2-1.fna.fbcdn.net/v/t1.0-9/20664446_1800788556879180_5370687865950374270_n.jpg?oh=6cffacb9207600f91eb75d7d4d130db1&oe=5B44D35C)
 ```
 
-You can use the [editor on GitHub](https://github.com/phpwebdevelope/phpwebdevelope.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Agency Jekyll theme
+====================
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Agency theme based on [Agency bootstrap theme ](https://startbootstrap.com/template-overviews/agency/)
 
-### Markdown
+# How to use
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+###Portfolio 
 
-```markdown
-Syntax highlighted code block
+Portfolio projects are in '/_posts'
 
-# Header 1
-## Header 2
-### Header 3
+Images are in '/img/portfolio'
 
-- Bulleted
-- List
+###About
 
-1. Numbered
-2. List
+Images are in '/img/about/'
 
-**Bold** and _Italic_ and `Code` text
+###Team
 
-[Link](url) and ![Image](src) 
-```
+Team members and info are in '_config.yml'
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Images are in '/img/team/'
+
+
+# Demo
+
+View this jekyll theme in action [here](https://y7kim.github.io/agency-jekyll-theme)
+
+=========
+For more details, read [documentation](http://jekyllrb.com/)
 
 ### Jekyll Themes
 

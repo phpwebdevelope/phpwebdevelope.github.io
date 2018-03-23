@@ -1,5 +1,6 @@
+lang: en-UK
 url: https://phpwebdevelope.github.io
-baseurl: /
+baseurl: /agency-jekyll-theme/
 
 # Site settings
 title: Caribbean Fashion House
@@ -52,4 +53,3 @@ address:
 markdown: kramdown
 permalink: pretty
 
-theme: 

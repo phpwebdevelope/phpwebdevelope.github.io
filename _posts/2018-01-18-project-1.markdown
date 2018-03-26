@@ -5,10 +5,10 @@ layout: default
 modal-id: 1
 date: 2018-01-18
 img: bridal.png
-thumbnail: dreams-thumbnail.png
+thumbnail: bridal.png
 alt: image-alt
 project-date: April 2018
-client: Start Bootstrap
+client: Bride
 category: Bridal Couture
 description: Custom made bridal design to suit your silhouette, made exclusively in Jamaica, West Indies.
 

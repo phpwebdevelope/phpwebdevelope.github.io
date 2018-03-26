@@ -1,16 +1,16 @@
 ---
-title: Dreams
-subtitle: Website Design
+title: Bridal Dreams
+subtitle: Couture Bridal Design
 layout: default
 modal-id: 1
 date: 2018-01-18
-img: dreams.png
+img: bridal.png
 thumbnail: dreams-thumbnail.png
 alt: image-alt
 project-date: April 2018
 client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+category: Bridal Couture
+description: Custom made bridal design to suit your silhouette, made exclusively in Jamaica, West Indies.
 
 ---
 

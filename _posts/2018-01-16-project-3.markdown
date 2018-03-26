@@ -1,16 +1,16 @@
 ---
-title: Golden
-subtitle: Website Design
+title: Golden Theme Bridal Gown
+subtitle: Couture Bridal Design
 layout: default
 modal-id: 3
 date: 2018-01-16
-img: golden.png
-thumbnail: golden-thumbnail.png
+img: heleng.png
+thumbnail: heleng.png
 alt: image-alt
 project-date: April 2018
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+client: Brides
+category: Couture Bridal Gown
+description: Bridal.
 
 ---
 

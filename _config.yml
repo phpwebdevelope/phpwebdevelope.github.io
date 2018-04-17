@@ -1,7 +1,7 @@
 lang: en-UK
 url: https://phpwebdevelope.github.io
 baseurl: /agency-jekyll-theme/
-google_analytics = "UA-110136381-1" 
+google_analytics: UA-110136381-1 
 
 # Site settings
 title: House Of Fennel

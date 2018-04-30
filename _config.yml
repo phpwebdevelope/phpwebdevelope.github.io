@@ -6,7 +6,7 @@ google_analytics: UA-110136381-1
 # Site settings
 title: House Of Fennel
 email: houseoffennel@gmail.com
-description: "Jamaican Fashion Couture House for womenswear."
+description: "Jamaican Fashion House for womenswear."
 
 
 # Team names, titles and social links
@@ -46,7 +46,6 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: Portmore
   - line: Jamaica
   - line: West Indies
 

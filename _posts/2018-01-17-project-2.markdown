@@ -1,0 +1,16 @@
+---
+title: Fashion Exhibition
+subtitle: Irie Magic Fashion Fusion Exhibition
+layout: default
+modal-id: 2
+date: 2018-05-17
+img: irie-ballgown.jpg
+thumbnail: irie-ballgown.jpg
+alt: image-alt
+project-date: May 2018
+client: Irie Magic Fashion Fusion Exhibition
+category: Evening Wear
+description: Irie Magic Ballgown
+
+---
+

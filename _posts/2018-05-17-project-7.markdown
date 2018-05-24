@@ -5,7 +5,7 @@ layout: default
 modal-id: 7
 date: 2018-05-17
 img: irie-yoke-skirt.jpg 
-thumbnail: irie-yore-skirt.jpg
+thumbnail: irie-yoke-skirt.jpg 
 alt: image-alt
 project-date: May 2018
 client: Fashion Exhibition

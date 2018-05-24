@@ -1,16 +1,16 @@
 ---
 title: Treehouse Wedding Party
-subtitle: Wedding Design
+subtitle: Helen G Bridal Fashion Show
 layout: default
 modal-id: 4
 date: 2018-01-15
 img: helen.png
 thumbnail: helen.png
 alt: image-alt
-project-date: April 2018
+project-date: January 2017
 client: Brides
 category: Fashion Design
-description: Wedding.
+description: Helen G Bridal Competition Fashion Show 2017.
 
 ---
 

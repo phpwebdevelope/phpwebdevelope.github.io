@@ -4,8 +4,8 @@ subtitle: Irie Magic Fashion Fusion Exhibition
 layout: default
 modal-id: 7
 date: 2018-05-17
-img: irie-york-skirt.jpg
-thumbnail: irie-york-skirt.jpg
+img: irie-yoke-skirt.jpg 
+thumbnail: irie-yore-skirt.jpg
 alt: image-alt
 project-date: May 2018
 client: Fashion Exhibition

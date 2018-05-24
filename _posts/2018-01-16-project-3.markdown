@@ -1,6 +1,6 @@
 ---
 title: Golden Theme Bridal Gown
-subtitle: Couture Bridal Design
+subtitle: Helen G Bridal Fashion Show
 layout: default
 modal-id: 3
 date: 2018-01-16
@@ -9,8 +9,8 @@ thumbnail: heleng.png
 alt: image-alt
 project-date: April 2018
 client: Brides
-category: Couture Bridal Gown
-description: Bridal.
+category: Bridal Gown
+description: Helen G Bridal Competition Fashion Show 2017.
 
 ---
 

@@ -1,0 +1,17 @@
+---
+title: Fashion Exhibition
+subtitle: Irie Magic Fashion Fusion Exhibition
+layout: default
+modal-id: 7
+date: 2018-05-17
+img: irie-york-skirt.jpg
+thumbnail: irie-york-skirt.jpg
+alt: image-alt
+project-date: May 2018
+client: Fashion Exhibition
+category: Pleated York Dress
+description: Limited Edition black and gold Irie Magic Fashion Fusion Exhibition pleated york dress.
+
+---
+
+

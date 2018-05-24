@@ -1,0 +1,16 @@
+---
+title: Fashion Exhibition
+subtitle: Irie Magic Fashion Fusion Exhibition
+layout: default
+modal-id: 1
+date: 2018-05-17
+img: irie-cocktail-dress.jpg
+thumbnail: irie-cocktail-dress.jpg
+alt: image-alt
+project-date: May 2018
+client: Fashion Exhibition
+category: Cocktail Dress
+description: Limited Edition black and gold Irie Magic Fashion Fusion Exhibition cocktail dress.
+
+---
+

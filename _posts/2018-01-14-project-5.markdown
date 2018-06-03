@@ -1,6 +1,6 @@
 ---
-title: Design Works
-subtitle: Fashion Design
+title: Miss Universe Jamaica 2017
+subtitle: Davina Bennett, Miss Universe 2nd Runner up
 layout: default
 modal-id: 5
 date: 2018-01-14

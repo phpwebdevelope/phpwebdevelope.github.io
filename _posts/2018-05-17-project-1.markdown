@@ -10,7 +10,7 @@ alt: image-alt
 project-date: May 2018
 client: Fashion Exhibition
 category: Cocktail Dress
-description: Limited Edition black and gold Irie Magic Fashion Fusion Exhibition cocktail dress.
+description: Black and Gold dress at JBDC's Irie Magic Fashion Fusion Exhibition held at the Jamaica Pegasus
 
 ---
 

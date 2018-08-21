@@ -3,11 +3,11 @@ title: The Black Fairy Tale Dress
 subtitle: From the Irie Magic Fashion Fusion Exhibition
 layout: default
 modal-id: 1
-date: 2018-05-17
+date: 2018-08-17
 img: fairytaildress.jpg
 thumbnail: fairytaildress.jpg
 alt: image-alt
-project-date: May 2018
+project-date: August 2018
 client: Stockist
 category: Fashion Exhibition
 description: Black and Gold dress at JBDC's Irie Magic Fashion Fusion Exhibition held at the Jamaica Pegasus

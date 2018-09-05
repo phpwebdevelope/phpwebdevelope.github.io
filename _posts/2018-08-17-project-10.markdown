@@ -5,7 +5,7 @@ layout: default
 modal-id: 10
 date: 2018-08-17
 img: glittergown-bk.jpg
-thumbnail: glittergown-bk.jpg
+thumbnail: glittergown-bk_.jpg
 alt: image-alt
 project-date: August 2018
 client: Stockist

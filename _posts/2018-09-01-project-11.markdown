@@ -1,6 +1,6 @@
 ---
-title: Miss Jamaica World 2018 contestant - Beauty with a Purpose
-subtitle: Miss Jamaica World 2018 contestant - Beauty with a Purpose
+title: Beauty with a Purpose
+subtitle: Miss Jamaica World 2018 contestant 
 layout: default
 modal-id: 11
 date: 2018-09-01

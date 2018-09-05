@@ -1,0 +1,15 @@
+---
+title: Miss Jamaica World 2018 contestant - Beauty with a Purpose
+subtitle: Miss Jamaica World 2018 contestant - Beauty with a Purpose
+layout: default
+modal-id: 11
+date: 2018-09-01
+img: jana.jpg
+thumbnail: jana.jpg
+alt: image-alt
+project-date: September 2018
+client: MJW
+category: Pageant
+description: Miss Jamaica World 2018 finals held at the Jamaica Pegasus
+---
+ 

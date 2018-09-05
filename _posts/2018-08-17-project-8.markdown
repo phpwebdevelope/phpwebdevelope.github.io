@@ -5,7 +5,7 @@ layout: default
 modal-id: 8
 date: 2018-08-17
 img: fairytaledress.jpg
-thumbnail: fairytaledress.jpg
+thumbnail: fairytaledress_.jpg
 alt: image-alt
 project-date: August 2018
 client: Stockist

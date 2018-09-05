@@ -2,7 +2,7 @@
 title: Beauty with a Purpose
 subtitle: Miss Jamaica World 2018 contestant
 layout: default
-modal-id: 11
+modal-id: 12
 date: 2018-09-01
 img: jana.jpg
 thumbnail: jana.jpg

@@ -4,8 +4,8 @@ subtitle: Mission Catwalk S6E2
 layout: default
 modal-id: 14
 date: 2018-09-29
-img: MCWfront.png
-thumbnail: MCWfront.png
+img: mcwfront.png
+thumbnail: mcwfront.png
 alt: Mission Catwalk S6
 project-date: 29 September 2018
 client: MCW-S6

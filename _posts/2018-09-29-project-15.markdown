@@ -3,7 +3,7 @@ title: Mission Catwalk Celebrity Edition
 subtitle: Mission Catwalk S6E2 
 layout: default
 modal-id: 15
-date: 2018-09-29
+date: 2018-01-01
 img: mcwbackview.png
 thumbnail: mcwbackview.png
 alt: Mission Catwalk S6

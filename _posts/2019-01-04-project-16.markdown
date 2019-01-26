@@ -2,7 +2,7 @@
 title: Bridal Fantasy 2019
 subtitle: Bridal Fantasy 2019 photoshoot 
 layout: default
-modal-id: 14
+modal-id: 16
 date: 2019-01-04
 img: bridalfantasy80.jpg
 thumbnail: bridalfantasy.jpg

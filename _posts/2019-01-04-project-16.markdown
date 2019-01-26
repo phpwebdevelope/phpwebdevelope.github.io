@@ -5,7 +5,7 @@ layout: default
 modal-id: 16
 date: 2019-01-04
 img: bridalfantasy80.jpg
-thumbnail: bridalfantasy.jpg
+thumbnail: bridalfantasy80.jpg
 alt: BridalFantasy
 project-date: January 2019
 client: bride

@@ -4,8 +4,8 @@ subtitle: Bridal Fantasy 2019 photoshoot
 layout: default
 modal-id: 17
 date: 2019-01-04
-img: bridalfantasy11.jpg
-thumbnail: bridalfantasy11.jpg
+img: bridalfantasy11.JPG
+thumbnail: bridalfantasy11.JPG
 alt: BridalFantasy
 project-date: January 2019
 client: bride

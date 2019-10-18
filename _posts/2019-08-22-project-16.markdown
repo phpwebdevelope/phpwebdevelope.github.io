@@ -4,8 +4,8 @@ subtitle: Bridal Nuptial 2020
 layout: default
 modal-id: 16
 date: 2019-08-22
-img: bridem3.JPG
-thumbnail: bridem3.JPG
+img: Bridem3.JPG
+thumbnail: Bridem3.JPG
 alt: Bridal SS2020
 project-date: August 2019
 client: bride

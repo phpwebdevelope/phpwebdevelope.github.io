@@ -3,7 +3,7 @@ title: Bridal SS20
 subtitle: Bridal Nuptial SS2020 photoshoot 
 layout: default
 modal-id: 17
-date: 2019-01-04
+date: 2019-08-04
 img: bridem2.JPG
 thumbnail: bridem2.JPG
 alt: BridalFantasy

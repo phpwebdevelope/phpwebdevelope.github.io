@@ -1,0 +1,14 @@
+---
+title: Spring Summer SS20
+subtitle: Collection SS2020 
+layout: default
+modal-id: 20
+date: 2019-08-22
+img: Milan2.JPG
+thumbnail: Milan2.JPG
+alt: SS2020
+project-date: August 2019
+client: muse
+category: Photoshoot
+description: Stay cool in the summer, while the heat increases.
+---

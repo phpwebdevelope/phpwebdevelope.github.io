@@ -3,11 +3,11 @@ title: Bridal SS20
 subtitle: Bridal Nuptial 2020 
 layout: default
 modal-id: 18
-date: 2019-01-04
+date: 2019-08-04
 img: bridem1.JPG
 thumbnail: bridem1.JPG
-alt: BridalFantasy
-project-date: January 2019
+alt: Bridal SS20
+project-date: August 2019
 client: bride
 category: Bridal
 description: Before you hop on a plane to get married in Jamaica, W.I., you’ll need to scedule an appointment for a bespoke wedding gown..

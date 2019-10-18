@@ -10,5 +10,5 @@ alt: Bridal SS20
 project-date: August 2019
 client: bride
 category: Bridal
-description: Before you hop on a plane to get married in Jamaica, W.I., you’ll need to scedule an appointment for a bespoke wedding gown..
+description: Before you hop on a plane to get married in Jamaica, W.I., you’ll need to scedule an appointment for a bespoke wedding gown.
 ---

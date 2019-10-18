@@ -1,14 +1,14 @@
 ---
-title: Bridal Fantasy 2019
-subtitle: Bridal Fantasy 2019 photoshoot 
+title: Bridal SS20
+subtitle: Bridal Nuptial SS2020 photoshoot 
 layout: default
 modal-id: 17
 date: 2019-01-04
-img: bridalfantasy11.JPG
-thumbnail: bridalfantasy11.JPG
+img: bridem2.JPG
+thumbnail: bridem2.JPG
 alt: BridalFantasy
-project-date: January 2019
+project-date: August 2019
 client: bride
 category: Bridal
-description: Bridal Fantasy 2019 photoshoot at the Trident Castle in Portland, Jamaica.
+description: Preparing to get married is an exciting time, a bespoke bridal dress will create a lifetime of memories to share from generations to generations .
 ---

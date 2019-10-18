@@ -10,5 +10,5 @@ alt: BridalFantasy
 project-date: August 2019
 client: bride
 category: Bridal
-description: Preparing to get married is an exciting time, a bespoke bridal dress will create a lifetime of memories to share from generations to generations .
+description: Preparing to get married is an exciting time, a bespoke bridal dress will create a lifetime of memories to share from generations to generations.
 ---

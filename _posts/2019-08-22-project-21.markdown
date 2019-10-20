@@ -4,8 +4,8 @@ subtitle: Collection SS2020
 layout: default
 modal-id: 21
 date: 2019-08-22
-img: Milan3.JPG
-thumbnail: Milan3.JPG
+img: Milan3.jpg
+thumbnail: Milan3.jpg
 alt: SS2020
 project-date: August 2019
 client: muse

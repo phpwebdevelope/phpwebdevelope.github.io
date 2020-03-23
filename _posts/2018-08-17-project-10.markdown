@@ -1,16 +1,16 @@
 ---
-title: The Black and Gold Shimmer Fairy Tale Dress
+title: Designer Dress
 subtitle: From the Irie Magic Fashion Fusion Exhibition
 layout: default
 modal-id: 10
 date: 2018-08-17
-img: glittergown-bk.jpg
-thumbnail: glittergown-bk_.jpg
+img: hof-img-7.png
+thumbnail: hof-img-7.png
 alt: image-alt
 project-date: August 2018
 client: Stockist
 category: Fashion Exhibition
-description: Black and Gold dress at JBDC's Irie Magic Fashion Fusion Exhibition held at the Jamaica Pegasus
+description: Limited dress for JBDC's Irie Magic Fashion Fusion Exhibition held at the Jamaica Pegasus
 
 ---
  

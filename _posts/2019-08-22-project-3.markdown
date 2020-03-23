@@ -2,7 +2,7 @@
 title: Spring Summer SS20
 subtitle: Collection SS2020 
 layout: default
-modal-id: 19
+modal-id: 3
 date: 2019-08-22
 img: hof-img-3.png
 thumbnail: hof-img-3.png

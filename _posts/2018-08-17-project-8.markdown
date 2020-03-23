@@ -4,8 +4,8 @@ subtitle: From the Irie Magic Fashion Fusion Exhibition
 layout: default
 modal-id: 8
 date: 2018-08-17
-img: fairytaledress.jpg
-thumbnail: fairytaledress_.jpg
+img: hof-img-8.png
+thumbnail: hof-img-8.png
 alt: image-alt
 project-date: August 2018
 client: Stockist

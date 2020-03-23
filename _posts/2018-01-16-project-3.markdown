@@ -4,8 +4,8 @@ subtitle: Helen G Bridal Fashion Show
 layout: default
 modal-id: 3
 date: 2018-01-16
-img: heleng.png
-thumbnail: heleng.png
+img: hof-img-5.png
+thumbnail: hof-img-5.png
 alt: image-alt
 project-date: April 2018
 client: Brides

@@ -3,7 +3,7 @@ title: Spring Summer SS20
 subtitle: Collection SS2020 
 layout: default
 modal-id: 3
-date: 2018-01-13
+date: 2018-02-13
 img: hof-img-3.png
 thumbnail: hof-img-3.png
 alt: SS2020

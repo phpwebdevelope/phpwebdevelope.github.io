@@ -3,7 +3,7 @@ title: Fashion Exhibition
 subtitle: Irie Magic Fashion Fusion Exhibition
 layout: default
 modal-id: 6
-date: 2018-04-17
+date: 2018-04-12
 img: hof-img-6.png
 thumbnail: hof-img-6.png
 alt: image-alt
@@ -11,6 +11,5 @@ project-date: May 2018
 client: Fashion Exhibition
 category: Cocktail Dress
 description: Black and Gold dress at JBDC's Irie Magic Fashion Fusion Exhibition held at the Jamaica Pegasus
-
 ---
 

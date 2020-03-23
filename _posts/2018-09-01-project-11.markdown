@@ -4,8 +4,8 @@ subtitle: Miss Jamaica World 2018 contestant
 layout: default
 modal-id: 11
 date: 2018-09-01
-img: jana.jpg
-thumbnail: jana.jpg
+img: hof-img-1.png
+thumbnail: hof-img-1.png
 alt: image-alt
 project-date: September 2018
 client: MJW

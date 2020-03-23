@@ -3,7 +3,7 @@ title: Fashion Exhibition
 subtitle: Irie Magic Fashion Fusion Exhibition
 layout: default
 modal-id: 6
-date: 2018-05-17
+date: 2018-04-17
 img: hof-img-6.png
 thumbnail: hof-img-6.png
 alt: image-alt

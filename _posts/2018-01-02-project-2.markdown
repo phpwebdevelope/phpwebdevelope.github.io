@@ -3,7 +3,7 @@ title: Mission Catwalk Celebrity Edition
 subtitle: Mission Catwalk S6E2 
 layout: default
 modal-id: 2
-date: 2018-01-01
+date: 2018-01-02
 img: hof-img-2.png
 thumbnail: hof-img-2.png
 alt: Mission Catwalk S6

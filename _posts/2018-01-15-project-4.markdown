@@ -11,6 +11,5 @@ project-date: January 2017
 client: Brides
 category: Fashion Design
 description: Helen G Bridal Competition Fashion Show 2017.
-
 ---
 

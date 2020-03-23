@@ -3,7 +3,7 @@ title: Beauty with a Purpose
 subtitle: Miss Jamaica World 2018 contestant 
 layout: default
 modal-id: 1
-date: 2018-01-01
+date: 2018-09-01
 img: hof-img-1.png
 thumbnail: hof-img-1.png
 alt: image-alt

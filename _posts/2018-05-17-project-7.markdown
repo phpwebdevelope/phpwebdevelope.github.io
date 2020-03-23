@@ -1,6 +1,6 @@
 ---
-title: Fashion Exhibition
-subtitle: Irie Magic Fashion Fusion Exhibition
+title: The Pleated Yoke Dress
+subtitle: From the Irie Magic Fashion Fusion Exhibition
 layout: default
 modal-id: 7
 date: 2018-05-17

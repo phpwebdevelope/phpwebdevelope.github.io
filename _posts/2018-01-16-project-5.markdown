@@ -2,7 +2,7 @@
 title: Golden Theme Bridal Gown
 subtitle: Helen G Bridal Fashion Show
 layout: default
-modal-id: 3
+modal-id: 5
 date: 2018-01-16
 img: hof-img-5.png
 thumbnail: hof-img-5.png
@@ -11,6 +11,5 @@ project-date: April 2018
 client: Brides
 category: Bridal Gown
 description: Helen G Bridal Competition Fashion Show 2017.
-
 ---
 

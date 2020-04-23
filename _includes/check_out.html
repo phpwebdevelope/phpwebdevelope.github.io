@@ -1,7 +1,11 @@
 <!-- Item section -->
     <section id="team" class="bg-light-gray">
         <div class="container">
-           
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h3 class="section-subheading text-muted">Washable and Reuseable, built with filter pocket</h3>
+                </div>
+            </div>
             <div class="row">
                 {% for member in site.people %}
                 <div class="col-sm-4">
@@ -12,28 +16,10 @@
                 {% endfor %}
             
                 <!--paypal check out-->
-<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-<input type="hidden" name="cmd" value="_s-xclick">
-<input type="hidden" name="hosted_button_id" value="S6X2GSYCY3ELW">
-<table>
-<tr><td><input type="hidden" name="on0" value="Quantity">Quantity</td></tr><tr><td><select name="os0">
-	<option value="6 for $12.99 ea">6 for $12.99 ea $77.94 USD</option>
-	<option value="12 for $10.99 ea">12 for $10.99 ea $131.88 USD</option>
-</select> </td></tr>
-<tr><td><input type="hidden" name="on1" value="Colour">Colour</td></tr><tr><td><select name="os1">
-	<option value="Assorted">Assorted </option>
-	<option value="Solid">Solid </option>
-	<option value="Print">Print </option>
-</select> </td></tr>
-</table>
-<input type="hidden" name="currency_code" value="USD">
-<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-</form>
-<!--paypal check out-->
-                    <p class="large text-muted"></p>
+<p class="large text-muted"></p>
 		    <script src="https://www.paypal.com/sdk/js?client-id=sb"></script>
 <script>paypal.Buttons().render('body');</script>
+<!--paypal check out-->                    
                 </div>
            
         </div>

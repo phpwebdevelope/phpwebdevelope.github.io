@@ -7,20 +7,18 @@
                 </div>
             </div>
             <div class="row">
+		    <!--paypal check out-->
+<p class="large text-muted"></p>
+		    <script src="https://www.paypal.com/sdk/js?client-id=sb"></script>
+<script>paypal.Buttons().render('body');</script>
+<!--paypal check out-->  
                 {% for member in site.people %}
                 <div class="col-sm-4">
                     <div class="team-member">
                         <img src="img/team/{{ member.pic }}.png" class="img-responsive" alt="">   
                     </div>
                 </div>
-                {% endfor %}
-            
-                <!--paypal check out-->
-<p class="large text-muted"></p>
-		    <script src="https://www.paypal.com/sdk/js?client-id=sb"></script>
-<script>paypal.Buttons().render('body');</script>
-<!--paypal check out-->                    
-                </div>
-           
+                {% endfor %}                  
+                </div>         
         </div>
     </section>

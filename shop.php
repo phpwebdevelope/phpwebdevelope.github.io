@@ -46,7 +46,7 @@
                 {% for member in site.people %}
                 <div class="col-sm-4">
                     <div class="team-member">
-                        <img src="img/team/{{member.pic}}.png" class="img-responsive" alt="">   
+                        <img src="img/team/{{ member.pic }}.png" class="img-responsive" alt="">   
                     </div>
                 </div>
                 {% endfor %} 

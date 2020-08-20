@@ -9,7 +9,7 @@ title: House Of Fennel
 email: info@houseoffennel.com
 description: "Jamaican Fashion House for timeless Prêt-à-Porter and custom-made attire - Indigenous Jamaican Creativity."
 tagline: Indigenous Jamaican Creativity
-keywords: Indigenous Jamaican Creativity, Pattern Making, Garment Production, Apparel Production, Fashion Designing, Jamaican Couture, Garment Manufacturing
+keywords: House Of Fennel. House Of Fennel Bridal, Wedding, Indigenous Jamaican Creativity, Pattern Making, Garment Production, Apparel Production, Fashion Designing, Jamaican Couture, Garment Manufacturing, Made in Jamaica, Clothier, Couturier
 # Team names, titles and social links
 people:
 - name: M. M. Fennel
@@ -23,7 +23,7 @@ people:
     - title: instagram
       url: https://www.instagram.com/houseoffennel
 
-- name: Diana Petersen
+- name: Moses Fennel
   pic: 3
   position: Lead Developer
   social:
@@ -43,6 +43,8 @@ social:
     url: http://twitter.com/houseoffennel
 # Postal address (add as many lines as necessary)
 address:
+  - line: 5 Balmoral Avenue, Kingston 10
+  - line: Suite 7 - Upstairs
   - line: Jamaica
   - line: West Indies
 # Build settings

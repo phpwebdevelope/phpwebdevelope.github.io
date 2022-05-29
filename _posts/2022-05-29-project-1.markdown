@@ -1,5 +1,5 @@
 ---
-title: The Pleated Yoke Dress
+title: Couture Bridal Gown
 subtitle: Custom-made Couture Bridal
 layout: default
 modal-id: 7

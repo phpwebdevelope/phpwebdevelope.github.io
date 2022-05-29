@@ -1,0 +1,16 @@
+---
+title: The Pleated Yoke Dress
+subtitle: Custom-made Couture Bridal
+layout: default
+modal-id: 7
+date: 2022-05-29
+img: heleng.png 
+thumbnail: heleng.png 
+alt: image-alt
+project-date: May 2018
+client: Bridal Fantasy
+category: Bespoke Bridal
+description: Custom-made Couture Bridal made in our Maison's Atelier in Jamaica, West Indies.
+---
+
+

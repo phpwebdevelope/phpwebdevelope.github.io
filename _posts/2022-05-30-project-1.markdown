@@ -10,7 +10,7 @@ alt: image-alt
 project-date: May 2022
 client: HoF
 category: Womenswear
-description: Custom made Maternity dress.
+description: Custom made Maternity dress, made in our Maison's Atelier in Jamaica, West Indies.
 ---
 
 

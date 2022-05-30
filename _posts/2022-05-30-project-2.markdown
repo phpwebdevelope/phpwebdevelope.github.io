@@ -4,8 +4,8 @@ subtitle: Custom made Gown
 layout: default
 modal-id: 7
 date: 2022-05-30
-img: blackwhiteShantel.jpg 
-thumbnail: blackwhiteShantel.jpg 
+img: hof-blackwhitegown.png 
+thumbnail: hof-blackwhitegown.png 
 alt: image-alt
 project-date: May 2022
 client: Gown

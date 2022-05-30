@@ -8,7 +8,7 @@ img: hof-img-9.png
 thumbnail: hof-img-9.png
 alt: image-alt
 project-date: August 2018
-client: Stockist
+client: HoF
 category: Fashion Exhibition
-description: Black and Gold dress at JBDC's Irie Magic Fashion Fusion Exhibition held at the Jamaica Pegasus
+description: Black and Gold dress at JBDC's Irie Magic Fashion Fusion Exhibition held at the Jamaica Pegasus, made in our Maison's Atelier in Jamaica, West Indies
 ---

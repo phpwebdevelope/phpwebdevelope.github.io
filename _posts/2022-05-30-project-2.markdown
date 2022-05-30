@@ -8,9 +8,9 @@ img: hof-blackwhitegown.png
 thumbnail: hof-blackwhitegown.png 
 alt: image-alt
 project-date: May 2022
-client: Gown
-category: Gowns
-description: Custom made Evening Gown.
+client: HoF
+category: Womenswear
+description: Custom made Evening Gown, made in Jamaica, W.I.
 ---
 
 

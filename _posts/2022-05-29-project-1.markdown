@@ -8,7 +8,7 @@ img: hof-bridal.png
 thumbnail: hof-bridal.png 
 alt: image-alt
 project-date: May 2018
-client: Bridal Fantasy
+client: HoF
 category: Bespoke Bridal
 description: Custom-made Couture Bridal made in our Maison's Atelier in Jamaica, West Indies.
 ---

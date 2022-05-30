@@ -1,8 +1,8 @@
 ---
 title: The Gown
-subtitle: Custom Maternity Dress
+subtitle: Custom made Gown
 layout: default
-modal-id: 8
+modal-id: 7
 date: 2022-05-30
 img: blackwhiteShantel.jpg 
 thumbnail: blackwhiteShantel.jpg 

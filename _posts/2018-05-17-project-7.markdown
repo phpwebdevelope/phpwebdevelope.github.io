@@ -1,6 +1,6 @@
 ---
 title: The Pleated Yoke Dress
-subtitle: From the Irie Magic Fashion Fusion Exhibition 2018
+subtitle: From the Irie Magic Fashion Fusion Exhibition
 layout: default
 modal-id: 7
 date: 2018-05-17
@@ -8,9 +8,9 @@ img: hof-img-7.png
 thumbnail: hof-img-7.png 
 alt: image-alt
 project-date: May 2018
-client: Fashion Exhibition
-category: Pleated York Dress
-description: Limited Edition black and gold Irie Magic Fashion Fusion Exhibition pleated york dress.
+client: HoF
+category: Womenswear
+description: Limited Edition black and gold Irie Magic Fashion Fusion Exhibition pleated york dress, made in our Maison's Atelier in Jamaica, West Indies.
 ---
 
 

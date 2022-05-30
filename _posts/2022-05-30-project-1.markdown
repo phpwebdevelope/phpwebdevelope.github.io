@@ -4,8 +4,8 @@ subtitle: Custom Maternity Dress
 layout: default
 modal-id: 7
 date: 2022-05-30
-img: maternity.png 
-thumbnail: maternity.png 
+img: Maternity.png 
+thumbnail: Maternity.png 
 alt: image-alt
 project-date: May 2022
 client: Maternity

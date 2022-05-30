@@ -1,0 +1,16 @@
+---
+title: The Maternity Dress
+subtitle: Custom Maternity Dress
+layout: default
+modal-id: 7
+date: 2022-05-30
+img: maternity.png 
+thumbnail: maternity.png 
+alt: image-alt
+project-date: May 2022
+client: Maternity
+category: Maternity Dress
+description: Custom made Maternity dress.
+---
+
+

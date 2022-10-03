@@ -7,9 +7,9 @@ plugins:
 # Site settings
 title: House Of Fennel 
 email: info@houseoffennel.com
-description: "Jamaican Fashion House for timeless Prêt-à-Porter and custom-made attire - Indigenous Jamaican Creativity."
+description: "Jamaican Fashion House for timeless Prêt-à-Porter and Made-to-Order attire - Indigenous Jamaican Creativity."
 tagline: Indigenous Jamaican Creativity
-keywords: House Of Fennel. House Of Fennel Bridal, Wedding, Indigenous Jamaican Creativity, Pattern Making, Garment Production, Apparel Production, Fashion Designing, Jamaican Couture, Garment Manufacturing, Made in Jamaica, Clothier, Couturier
+keywords: House Of Fennel, House Of Fennel Bridal, Wedding, Indigenous Jamaican Creativity, Pattern Making, Garment Production, Apparel Production, Fashion Designing, Jamaican Couture, Garment Manufacturing, Made in Jamaica, Clothier, Couturier, House Of Fennel Resort, House Of Fennel menswear
 # Team names, titles and social links
 people:
 - name: M. M. Fennel
@@ -43,8 +43,8 @@ social:
     url: http://twitter.com/houseoffennel
 # Postal address (add as many lines as necessary)
 address:
-  - line: 5 Balmoral Avenue, Kingston 10
-  - line: Suite 7 - Upstairs
+  - line: 5 Balmoral Avenue, 
+  - line: Kingston 10,
   - line: Jamaica
   - line: West Indies
 # Build settings

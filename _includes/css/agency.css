@@ -14,7 +14,7 @@ body {
 }
 
 .text-primary {
-    color: #{{ site.data.template.color.primary }};
+    color: #{{ site.data.template.color.tertiary }};
 }
 
 .text-tertiary {
@@ -740,7 +740,7 @@ footer ul.quicklinks {
     margin-bottom: 0;
     text-transform: uppercase;
     text-transform: none;
-    font-family: {{ site.data.template.font.tertiary }};
+    font-family: {{ site.data.template.font.primary }};
     line-height: 40px;
 }
 

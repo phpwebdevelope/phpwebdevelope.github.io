@@ -39,7 +39,7 @@ a.active {
 }
 
 a {
-    color: #{{ site.data.template.color.primary }};
+    color: #{{ site.data.template.color.tertiary }};
 }
 
 a:hover,
@@ -740,7 +740,7 @@ footer ul.quicklinks {
     margin-bottom: 0;
     text-transform: uppercase;
     text-transform: none;
-    font-family: {{ site.data.template.font.primary }};
+    font-family: {{ site.data.template.font.tertiary }};
     line-height: 40px;
 }
 

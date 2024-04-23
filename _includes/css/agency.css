@@ -17,6 +17,10 @@ body {
     color: #{{ site.data.template.color.primary }};
 }
 
+.text-tertiary {
+    color: #{{ site.data.template.color.tertiary }};
+}
+
 p {
     font-size: 14px;
     line-height: 1.75;
@@ -176,7 +180,7 @@ fieldset[disabled] .btn-xl.active {
 
 .navbar-default .navbar-brand {
     font-family: "Kaushan","Helvetica Neue",Helvetica,Arial,cursive;
-    color: #{{ site.data.template.color.primary }};
+    color: #{{ site.data.template.color.tertiary }};
 }
 
 .navbar-default .navbar-brand:hover,

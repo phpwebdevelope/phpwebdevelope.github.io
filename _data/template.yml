@@ -2,7 +2,7 @@
 color:
   primary: ff0000 
   secondary: ed1c24  
-  hyperlink: 000
+  hyperlink: 000000
   secondary-dark: 333
   muted: 777
 # Font Families

@@ -17,10 +17,6 @@ body {
     color: #{{ site.data.template.color.tertiary }};
 }
 
-.text-tertiary {
-    color: #{{ site.data.template.color.tertiary }};
-}
-
 p {
     font-size: 14px;
     line-height: 1.75;

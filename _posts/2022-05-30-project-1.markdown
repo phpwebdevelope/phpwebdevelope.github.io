@@ -1,6 +1,6 @@
 ---
 title: The Maternity Dress
-subtitle: Custom Maternity Dress
+subtitle: Shotgun Wedding
 layout: default
 modal-id: 8
 date: 2022-05-30
@@ -10,7 +10,7 @@ alt: image-alt
 project-date: May 2022
 client: HoF
 category: Womenswear
-description: Custom made Maternity dress, made in our Maison's Atelier in Jamaica, West Indies.
+description: Custom made in our Maison's Atelier in Jamaica, West Indies.
 ---
 
 

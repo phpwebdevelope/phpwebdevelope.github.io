@@ -3,13 +3,13 @@ title: Couture Bridal Gown
 subtitle: Custom-made Couture Bridal
 layout: default
 modal-id: 7
-date: 2022-05-29
+date: Starts at £1000 GBP 
 img: hof-bridal.png 
 thumbnail: hof-bridal.png 
 alt: image-alt
-project-date: May 2018
-client: HoF
-category: Bespoke Bridal
+project-date: 2024
+client: Brides
+category: Couture Bridal
 description: Custom-made Couture Bridal made in our Maison's Atelier in Jamaica, West Indies.
 ---
 

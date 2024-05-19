@@ -3,7 +3,7 @@ title: Couture Bridal Gown
 subtitle: Custom-made Couture Bridal starts at £1000 GBP 
 layout: default
 modal-id: 6
-date: 
+date: May 2024
 img: hof-bridal.png 
 thumbnail: hof-bridal.png 
 alt: image-alt

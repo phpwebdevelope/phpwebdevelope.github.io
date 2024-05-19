@@ -1,13 +1,13 @@
 ---
 title: Couture Bridal Gown
-subtitle: Custom-made Couture Bridal
+subtitle: Custom-made Couture Bridal starts at £1000 GBP 
 layout: default
 modal-id: 6
-date: Starts at £1000 GBP 
+date: 
 img: hof-bridal.png 
 thumbnail: hof-bridal.png 
 alt: image-alt
-project-date: 4 - 7 weeks to complete.
+project-date: 
 client: Brides
 category: Couture Bridal
 description: Custom-made Couture Bridal made in our Maison's Atelier in Jamaica, West Indies.

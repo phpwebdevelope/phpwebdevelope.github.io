@@ -7,7 +7,7 @@ date: May 2024
 img: hof-bridal.png 
 thumbnail: hof-bridal.png 
 alt: image-alt
-project-date: 2024-05-29
+project-date: 2024-05-19
 client: Brides
 category: Couture Bridal
 description: Custom-made Couture Bridal made in our Maison's Atelier in Jamaica, West Indies.

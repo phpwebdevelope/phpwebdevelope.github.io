@@ -1,13 +1,13 @@
 ---
 title: The Gown
-subtitle: Custom made Gown
+subtitle: Custom made Gown, starts at £750 GBP, 4 - 7 weeks to complete.
 layout: default
 modal-id: 7
-date: Starts at £750 GBP
+date: 
 img: hof-blackwhitegown.png 
 thumbnail: hof-blackwhitegown.png 
 alt: image-alt
-project-date: 4 - 7 weeks to complete.
+project-date: 
 client: HoF
 category: Womenswear
 description: Custom made Evening Gown, made in our Maison's Atelier in Jamaica, West Indies.

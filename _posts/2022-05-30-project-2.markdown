@@ -7,7 +7,7 @@ date:
 img: hof-blackwhitegown.png 
 thumbnail: hof-blackwhitegown.png 
 alt: image-alt
-project-date: 
+project-date: 2024-05-29
 client: HoF
 category: Womenswear
 description: Custom made Evening Gown, made in our Maison's Atelier in Jamaica, West Indies.

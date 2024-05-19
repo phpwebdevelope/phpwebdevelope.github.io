@@ -3,11 +3,11 @@ title: The Maternity Dress
 subtitle: Shotgun Wedding, starts at £500 GBP. 4- 7 weeks to complete.
 layout: default
 modal-id: 8
-date: 
+date: May 2024
 img: hof-maternity.png 
 thumbnail: hof-maternity.png 
 alt: image-alt
-project-date: 2024-05-29
+project-date: 2024-05-17
 client: HoF
 category: Womenswear
 description: Custom made in our Maison's Atelier in Jamaica, West Indies.

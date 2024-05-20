@@ -1,6 +1,6 @@
 ---
 title: The Maternity Dress
-subtitle: Shotgun Wedding, starts at £500 GBP. 4- 7 weeks to complete.
+subtitle: Shotgun Wedding, £550 GBP. 4- 7 weeks to complete.
 layout: default
 modal-id: 8
 date: May 2024

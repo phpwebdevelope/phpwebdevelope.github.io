@@ -1,5 +1,5 @@
 ---
-title: The Gown
+title: Gown
 subtitle: Custom made Gown, £750 GBP, 4 - 7 weeks to complete.
 layout: default
 modal-id: 7

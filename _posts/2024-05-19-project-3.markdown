@@ -1,6 +1,6 @@
 ---
 title: Haute Couture Bridal Gown
-subtitle: Custom-made Couture Bridal, £1200 GBP 
+subtitle: Custom-made Couture Bridal 
 layout: default
 modal-id: 6
 date: May 2024

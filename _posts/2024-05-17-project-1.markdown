@@ -1,6 +1,6 @@
 ---
 title: The Maternity Dress
-subtitle: Shotgun Wedding, £850 GBP. 4 - 7 weeks to complete.
+subtitle: Shotgun Destination Wedding, £850 GBP. 4 - 7 weeks to complete.
 layout: default
 modal-id: 8
 date: May 2024

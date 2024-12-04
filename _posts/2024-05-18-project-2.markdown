@@ -1,6 +1,7 @@
 ---
 title: Gown
 subtitle: Custom-made Gown, £1001.00 GBP, 4 - 7 weeks to complete.
+content: 1001.00
 layout: default
 modal-id: 7
 date: May 2024

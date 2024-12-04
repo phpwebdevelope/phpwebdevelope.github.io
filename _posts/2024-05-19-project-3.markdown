@@ -1,5 +1,5 @@
 ---
-title: Haute Couture Bridal Gown
+title: Couture Bridal Gown
 subtitle: Custom-made Couture Bridal 
 layout: default
 modal-id: 6
